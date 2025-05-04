@@ -165,14 +165,14 @@ img {
 }
 
 header {
-    background-color: #8B1E3F;
+    background-color: #6d212d;
     color: white;
     padding: 20px;
     text-align: center;
   }
   
   footer {
-    background-color: #8B1E3F;
+    background-color: #6d212d;
     color: white;
     text-align: center;
     padding: 10px;
@@ -180,7 +180,7 @@ header {
   }
   
   .contact-info i {
-    color: #8B1E3F;
+    color: #6d212d;
     font-size: 1.2rem;
   }
   
@@ -205,7 +205,7 @@ header {
   
   .cta-button {
     display: inline-block;
-    background-color: #8B1E3F;
+    background-color: #6d212d;
     color: white;
     padding: 12px 24px;
     border-radius: 8px;
@@ -239,12 +239,12 @@ header {
   }
   
   .feature-card h4 {
-    color: #8B1E3F;
+    color: #6d212d;
     margin-bottom: 10px;
   }
   
   .feature-card a {
-    color: #8B1E3F;
+    color: #6d212d;
     text-decoration: underline;
   }
   
