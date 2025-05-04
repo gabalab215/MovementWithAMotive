@@ -162,3 +162,23 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+header {
+    background-color: #8B1E3F;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #8B1E3F;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+  }
+  
+  body {
+    font-family: 'Montserrat', sans-serif;
+  }
+  
