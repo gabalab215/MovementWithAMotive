@@ -73,3 +73,31 @@ body {
     line-height: 1.6;
   }
   
+  .donation-options {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .qr-code {
+    max-width: 300px;
+    width: 100%;
+    margin: 20px auto;
+    display: block;
+  }
+  
+  .donate-button {
+    display: inline-block;
+    background-color: #0070ba;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    margin: 10px 0;
+  }
+  
+  .donate-button:hover {
+    background-color: #005ea6;
+  }
+  
