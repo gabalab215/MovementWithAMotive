@@ -147,6 +147,7 @@ body {
 /* Responsive main content */
 main {
   padding: 20px;
+  padding-bottom: 100px; /*this is to prevent the footer from overlapping the content*/
   max-width: 100%;
   box-sizing: border-box;
 }
