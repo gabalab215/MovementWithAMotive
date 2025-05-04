@@ -179,8 +179,8 @@ header {
     margin-top: 40px;
   }
   
-  i {
-    font-family: "Font Awesome 6 Free";
-    font-weight: 900;
+  .contact-info i {
+    color: #8B1E3F;
+    font-size: 1.2rem;
   }
   
