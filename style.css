@@ -248,3 +248,22 @@ header {
     text-decoration: underline;
   }
   
+  @media (max-width: 600px) {
+    header {
+      padding: 10px; /* reduce header padding */
+    }
+  
+    main {
+      padding-top: 10px; /* reduce space at top of main content */
+    }
+  
+    .form-container {
+      margin-top: 0; /* remove any extra top margin */
+      padding-top: 0;
+    }
+  
+    h2 {
+      margin-top: 10px; /* tighten heading spacing */
+    }
+  }
+  
